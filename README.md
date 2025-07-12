@@ -17,7 +17,7 @@ This Jupyter Notebook helps you automatically download Sentinel-5P data from the
 You can install them with: 
 pip install pandas geopandas requests shapely
 
-- Open the tropomi_data_download.ipynb. Run it in Jupyter Notebook, JupyterLab, or VSCode
+- Open the [tropomi_data_download.ipynb](https://github.com/sristymukherjee/copernicus-sentinel5p-automation/blob/main/tropomi_data_download.ipynb). Run it in Jupyter Notebook, JupyterLab, or VSCode
 - Edit the input cells
    - Copernicus credentials: copernicus_user = "your_email"   & copernicus_password = "your_password"
    - Bounding box (area of interest): ft = "POLYGON((minLon minLat, maxLon minLat, maxLon maxLat, minLon maxLat, minLon minLat))"
