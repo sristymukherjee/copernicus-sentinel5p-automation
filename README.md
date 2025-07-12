@@ -33,7 +33,3 @@ pip install pandas geopandas requests shapely
 
 - You can modify the script to download other Sentinel data by adjusting the data_collection and product settings.
 
----
-
-Feel free to fork this repository, suggest improvements, or adapt it for your own research.
-  
